@@ -40,3 +40,7 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
 ## Porfolio
 
 View my [pinned repositories](https://github.com/DanielMateosLab#choose-pinned-repositories).
+
+## Other Interests
+
+In addition to web development, I am interested in learning more computer science basics, blockchain and mathematics.
