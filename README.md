@@ -1,8 +1,14 @@
 # Daniel Mateos Labrador
 
+<article>
+
 #### Before Reading Further...
 
 The goal of this document is presenting my software development background, skills and portfolio. For information about personal details and other fields such as Physiotherapy or Ecological Agriculture visit my [linkedin](https://www.linkedin.com/in/danielmateoslab/).
+
+</article>
+
+<article>
 
 ## How I Met Software Development
 
@@ -12,14 +18,21 @@ One day I discovered that there were "little tricks" like hacks and private serv
 
 Back then, I was too young and eveything was too complicated: I never became a Vitalik Buterin. Nevertheless, I discovered that I loved computers and what you can do with them. Years later I decided to stop playing video games and to invest that time doing something that gave me more opportunities and freedom in the future, so my hobbie switched to learn software development. That journey continues today.
 
+</article>
+
+<article>
+
 ## Learning style
 
 I am mostly a self-taught developer, lacking traditional education diplomas (in terms of Computer Science). I learnt mostly reading documentations, books and watching MOOCs while making small personal projects.
 Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) to review all the Full-Stack Web Development pipeline and get some mentorship to land my first job in the field.
 
+</article>
+
+<article>
+
 ## Skills
 
-<p>
   <img alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img alt="CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -35,12 +48,21 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
   <img alt="Docker" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
   <img alt="MaterialUI" width="100px" src="https://mui.com/static/favicon.ico" />
   <img alt="Bootstrap" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-</p>
+
+</article>
+
+<article>
 
 ## Porfolio
 
 View my [pinned repositories](https://github.com/DanielMateosLab#choose-pinned-repositories).
 
+</article>
+
+<article>
+
 ## Other Interests
 
 In addition to web development, I am interested in learning more computer science basics, blockchain and mathematics.
+
+</article>
