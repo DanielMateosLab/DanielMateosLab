@@ -24,7 +24,7 @@ Back then, I was too young and eveything was too complicated: I never became a V
 
 ## Learning style
 
-I am mostly a self-taught developer, lacking traditional education diplomas (in terms of Computer Science). I learnt mostly reading documentations, books and watching MOOCs while making small personal projects.
+I am mostly a self-taught developer, lacking traditional education diplomas (in terms of Computer Science). I have learned mostly reading documentations, books and watching MOOCs while making small personal projects.
 Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) to review all the Full-Stack Web Development pipeline and get some mentorship to land my first job in the field.
 
 </article>
