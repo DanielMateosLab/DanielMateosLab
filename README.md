@@ -15,7 +15,7 @@
 
 #### Before Reading Further...
 
-This is a document focused on web development. For personal details and different education or
+This is a document focused on web development. For personal details and other education or
 work experience visit my [LinkedIn](https://www.linkedin.com/in/danielmateoslab/).
 
 </article>
