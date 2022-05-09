@@ -84,7 +84,7 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
 
 <article>
 
-## Porfolio
+## Portfolio
 
 View my [pinned repositories](https://github.com/DanielMateosLab#choose-pinned-repositories).
 
