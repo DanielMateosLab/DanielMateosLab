@@ -22,7 +22,7 @@ The goal of this document is presenting my software development background, skil
 
 <article>
 
-## How I Met Software Development
+## How I Met Software Development <a name="How-I-Met-Software-Development"></a>
 
 When I was a child I loved to play computer games. To progress and reach an advanced level a lot of them had premium content or required a huge time investment, resources that I often lacked.
 
@@ -34,7 +34,7 @@ Back then, I was too young and eveything was too complicated: I never became a V
 
 <article>
 
-## Learning style
+## Learning style <a name="Learning-style"></a>
 
 I am mostly a self-taught developer, lacking traditional education diplomas (in terms of Computer Science). I have learned mostly reading documentations, books and watching MOOCs while making small personal projects.
 Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) to review all the Full-Stack Web Development pipeline and get some mentorship to land my first job in the field.
@@ -43,7 +43,7 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
 
 <article>
 
-## Technologies
+## Technologies <a name="Technologies"></a>
 
 ### Languajes
 
@@ -88,7 +88,7 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
 
 <article>
 
-## Portfolio
+## Portfolio <a name="Portfolio"></a>
 
 View my [pinned repositories](https://github.com/DanielMateosLab#choose-pinned-repositories).
 
@@ -96,7 +96,7 @@ View my [pinned repositories](https://github.com/DanielMateosLab#choose-pinned-r
 
 <article>
 
-## Other Interests
+## Other Interests <a name="Other-Interests"> </a>
 
 In addition to web development, I am interested in learning more computer science basics, blockchain and mathematics.
 
