@@ -16,7 +16,7 @@
 #### Before Reading Further...
 
 This is a document focused on web development. For personal details and other education or
-work experience visit my [LinkedIn](https://www.linkedin.com/in/danielmateoslab/).
+work experience visit my <a href="https://www.linkedin.com/in/danielmateoslab/" target="_blank">LinkedIn</a>.
 
 </article>
 
@@ -27,7 +27,7 @@ work experience visit my [LinkedIn](https://www.linkedin.com/in/danielmateoslab/
 
 - In the web development world since 2017.
 - Mostly self-taught and self-sufficient.
-- Finished a [Full Stack Web Developer Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) in May 2022.
+- Finished a <a href="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" target="_blank">Full Stack Web Developer Bootcamp</a> in May 2022.
 - Former physical therapist, I am looking for a job in web development because I am even more passionate about it.
 
 </article>
