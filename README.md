@@ -90,7 +90,7 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
 
 ## <a name="Portfolio"></a> Portfolio
 
-View my [pinned repositories](https://github.com/DanielMateosLab#choose-pinned-repositories).
+View my [pinned repositories](https://github.com/DanielMateosLab).
 
 </article>
 
