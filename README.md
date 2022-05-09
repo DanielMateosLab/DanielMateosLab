@@ -4,11 +4,10 @@
 
 ## Table of Contents
 
-1. [How I Met Software Development](#How-I-Met-Software-Development)
-2. [Learning style](#Learning-style)
-3. [Technologies](#Technologies)
-4. [Portfolio](#Portfolio)
-5. [Other Interests](#Other-Interests)
+1. [A Brief Introduction](#introduction)
+2. [Technologies](#tech)
+3. [Portfolio](#Portfolio)
+4. [Contact & More](#contact)
 
 </article>
 
@@ -16,36 +15,29 @@
 
 #### Before Reading Further...
 
-The goal of this document is presenting my software development background, skills and portfolio. For information about personal details and other fields such as Physiotherapy or Ecological Agriculture visit my [linkedin](https://www.linkedin.com/in/danielmateoslab/).
+This is a document focused on web development. For personal details and different education or
+work experience visit my [LinkedIn](https://www.linkedin.com/in/danielmateoslab/).
 
 </article>
 
 <article>
+<a name="introduction"></a>
 
-## <a name="How-I-Met-Software-Development"></a> How I Met Software Development
+## A Brief Introduction
 
-When I was a child I loved to play computer games. To progress and reach an advanced level a lot of them had premium content or required a huge time investment, resources that I often lacked.
-
-One day I discovered that there were "little tricks" like hacks and private servers. Although that was not very ethical, I could explore the limits of the games and feed my curiosity. Although useful, this "tricks" weren't perfect, being not as user-friendly as the original games, so a lot of times I ended reading forums trying to make the stuff work. This way I started to discover how thinks worked under the hood and I soon realized that knowing how to code was kind of a super power.
-
-Back then, I was too young and eveything was too complicated: I never became a Vitalik Buterin. Nevertheless, I discovered that I loved computers and what you can do with them. Years later I decided to stop playing video games and to invest that time doing something that gave me more opportunities and freedom in the future, so my hobbie switched to learn software development. That journey continues today.
-
-</article>
-
-<article>
-
-## <a name="Learning-style"></a> Learning style
-
-I am mostly a self-taught developer, lacking traditional education diplomas (in terms of Computer Science). I have learned mostly reading documentations, books and watching MOOCs while making small personal projects.
-Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) to review all the Full-Stack Web Development pipeline and get some mentorship to land my first job in the field.
+- In the web development world since 2017.
+- Mostly self-taught and self-sufficient.
+- Finished a [Full Stack Web Developer Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) in May 2022.
+- Former physical therapist, I am looking for a job in web development because I am even more passionate about it.
 
 </article>
 
 <article>
+<a name="tech"></a>
 
-## <a name="Technologies"></a> Technologies
+## Technologies
 
-### Languajes
+### Languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5 "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=CSS3&logoColor=1572B6 "CSS3")
@@ -90,14 +82,31 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
 
 ## <a name="Portfolio"></a> Portfolio
 
-View my [pinned repositories](https://github.com/DanielMateosLab).
+- Danielmatlab: it's my website. I use GitHub as CMS and a Next.js app to add additional styling.
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/danielmatlab)
+  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://danielmatlab.com/)
+
+- Documentos-Los-Guindales: an app used by one association during a period of the COVID pandemic to generate PDF safe-conducts. They allowed activity participants to bypass certain restrictions. The demo live version has mock association data.
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/documentos-los-guindales)
+  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://documentos-los-guindales.danielmatlab.com/)
+
+- Guindales-Emails: an email list management app with passwordless and social-github authentication.
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/guindales-emails)
+  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://email-list.danielmatlab.com/)
+
+- Simplisio: an app that implements a traditional email-password authentication with db-stored sessions. You can edit your account details or delete it.
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/simplisio)
+  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://simplisio.danielmatlab.com/)
 
 </article>
 
 <article>
+<a name="contact"></a>
 
-## <a name="Other-Interests"></a> Other Interests
+## Contact & More
 
-In addition to web development, I am interested in learning more computer science basics, blockchain and mathematics.
+- Email: [daniel.mat.lab@gmail.com](mailto:daniel.mat.lab@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/danielmateoslab/)
+- [GitHub](https://github.com/DanielMateosLab)
 
 </article>
