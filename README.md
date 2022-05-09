@@ -1,5 +1,7 @@
 # Daniel Mateos Labrador
 
+<article>
+
 ## Table of Contents
 
 1. [How I Met Software Development](#How-I-Met-Software-Development)
@@ -7,6 +9,8 @@
 3. [Technologies](#Technologies)
 4. [Portfolio](#Portfolio)
 5. [Other Interests](#Other-Interests)
+
+</article>
 
 <article>
 
