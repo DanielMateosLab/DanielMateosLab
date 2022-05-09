@@ -31,28 +31,47 @@ Recently I started a bootcamp with [4GeeksAcademy](https://4geeksacademy.com/) t
 
 <article>
 
-## Skills
+## Technologies
 
-<p class="skills">
-  <img alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img alt="CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="TypeScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img alt="React" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img alt="Node" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img alt="Express" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-  <img alt="Flask" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-  <img alt="Next.js" width="100px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
-  <img alt="GraphQL" width="100px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
-  <img alt="Apollo" width="100px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" />
-  <img alt="MongoDB" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img alt="MySQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img alt="Jest" width="100px" src="https://jestjs.io/img/jest.png" />
-  <img alt="Docker" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-  <img alt="MaterialUI" width="100px" src="https://v4.mui.com/static/logo.png" />
-  <img alt="Bootstrap" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-</p>
+### Languajes
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5 "HTML5")
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=CSS3&logoColor=1572B6 "CSS3")
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat-square&logo=Typescript "Typescript")
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat-square&logo=Javascript "Javascript")
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python "Python")
+
+### API "Patterns"
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat-square&logo=GraphQL&logoColor=e10098 "GraphQL")
+![REST](https://img.shields.io/badge/-REST-333333?style=flat-square& "REST")
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=React "React")
+![Express](https://img.shields.io/badge/-Express-333333?style=flat-square&logo=Express "Express")
+![Next](https://img.shields.io/badge/-Next-333333?style=flat-square&logo=Next.js "Next")
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=Flask "Flask")
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat-square "SQLAlchemy")
+![Apollo](https://img.shields.io/badge/-Apollo-333333?style=flat-square&logo=Apollographql "Apollo")
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat-square&logo=Jest&logoColor=C21325 "Jest")
+![Pytest](https://img.shields.io/badge/-Pytest-333333?style=flat-square&logo=Pytest "Pytest")
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=Bootstrap "Bootstrap")
+![Material UI](https://img.shields.io/badge/-Material_UI-333333?style=flat-square&logo=MUI&logoColor=007FFF "Material UI")
+![Emotion CSS](https://img.shields.io/badge/-Emotion_CSS-333333?style=flat-square&logo=Emotion.css "Emotion CSS")
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=MongoDB "MongoDB")
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=PostgreSQL "PostgreSQL")
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=Redis "Redis")
+
+### Other
+
+![Node](https://img.shields.io/badge/-Node-333333?style=flat-square&logo=Node.js "Node")
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=Docker "Docker")
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=Git "Git")
+
 </article>
 
 <article>
