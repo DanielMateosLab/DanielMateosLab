@@ -81,6 +81,10 @@ This is a document focused on web development. For personal details and unrelate
 
 ## <a name="Portfolio"></a> Portfolio
 
+- Movy: An app to get details of your favourite TV shows.
+  <a href="https://github.com/danielmateoslab/movy" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
+  <a href="https://movy.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
+
 - Danielmatlab: it's my website. I use GitHub as CMS and a Next.js app to add additional styling.
   <a href="https://github.com/danielmateoslab/danielmatlab" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
   <a href="https://danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
