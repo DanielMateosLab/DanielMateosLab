@@ -83,20 +83,20 @@ work experience visit my [LinkedIn](https://www.linkedin.com/in/danielmateoslab/
 ## <a name="Portfolio"></a> Portfolio
 
 - Danielmatlab: it's my website. I use GitHub as CMS and a Next.js app to add additional styling.
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/danielmatlab)
-  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://danielmatlab.com/)
+  <a href="https://github.com/danielmateoslab/danielmatlab" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
+  <a href="https://danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
 
 - Documentos-Los-Guindales: an app used by one association during a period of the COVID pandemic to generate PDF safe-conducts. They allowed activity participants to bypass certain restrictions. The demo live version has mock association data.
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/documentos-los-guindales)
-  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://documentos-los-guindales.danielmatlab.com/)
+  <a href="https://github.com/danielmateoslab/documentos-los-guindales" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
+  <a href="https://documentos-los-guindales.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
 
 - Guindales-Emails: an email list management app with passwordless and social-github authentication.
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/guindales-emails)
-  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://email-list.danielmatlab.com/)
+  <a href="https://github.com/danielmateoslab/guindales-emails" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
+  <a href="https://email-list.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
 
 - Simplisio: an app that implements a traditional email-password authentication with db-stored sessions. You can edit your account details or delete it.
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)](https://github.com/danielmateoslab/simplisio)
-  [![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)](https://simplisio.danielmatlab.com/)
+  <a href="https://github.com/danielmateoslab/simplisio" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
+  <a href="https://simplisio.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
 
 </article>
 
@@ -105,8 +105,8 @@ work experience visit my [LinkedIn](https://www.linkedin.com/in/danielmateoslab/
 
 ## Contact & More
 
-- Email: [daniel.mat.lab@gmail.com](mailto:daniel.mat.lab@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/danielmateoslab/)
-- [GitHub](https://github.com/DanielMateosLab)
+- Email: <a href="mailto:daniel.mat.lab@gmail.com" target="_blank">daniel.mat.lab@gmail.com</a>
+- <a href="https://www.linkedin.com/in/danielmateoslab/" target="_blank">LinkedIn</a>
+- <a href="https://github.com/DanielMateosLab" target="_blank">GitHub</a>
 
 </article>
