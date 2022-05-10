@@ -71,8 +71,9 @@ This is a document focused on web development. For personal details and unrelate
 
 ### Other
 
-![Node](https://img.shields.io/badge/-Node-333333?style=flat-square&logo=Node.js "Node")
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux "Linux")
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=Docker "Docker")
+![Node](https://img.shields.io/badge/-Node-333333?style=flat-square&logo=Node.js "Node")
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=Git "Git")
 
 </article>
