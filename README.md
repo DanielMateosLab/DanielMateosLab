@@ -24,7 +24,7 @@ This is a document focused on web development. For personal details and unrelate
 
 ## A Brief Introduction
 
-- In the web development world since 2017.
+- Learning web development since 2017.
 - Mostly self-taught and self-sufficient.
 - Finished a <a href="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" target="_blank">Full Stack Web Developer Bootcamp</a> in May 2022.
 - Former physical therapist, I am looking for a job in web development because I am even more passionate about it.
