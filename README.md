@@ -19,7 +19,7 @@
 - Learning web development since 2017.
 - Mostly self-taught and self-sufficient.
 - Finished a <a href="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" target="_blank">Full Stack Web Developer Bootcamp</a> in May 2022.
-- Former physical therapist, I am looking for a job in web development because I am even more passionate about it.
+- Working as Frontend Developer since June 2022.
 
 </article>
 
@@ -101,7 +101,7 @@
 
 ## Contact & More
 
-- Email: <a href="mailto:daniel.mat.lab@gmail.com" target="_blank">daniel.mat.lab@gmail.com</a>
+- <a href="mailto:daniel.mat.lab@gmail.com" target="_blank">daniel.mat.lab@gmail.com</a>
 - <a href="https://www.linkedin.com/in/danielmateoslab/" target="_blank">LinkedIn</a>
 - <a href="https://github.com/DanielMateosLab" target="_blank">GitHub</a>
 
