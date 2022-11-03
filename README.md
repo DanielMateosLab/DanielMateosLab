@@ -12,14 +12,6 @@
 </article>
 
 <article>
-
-#### Before Reading Further...
-
-This is a document focused on web development. For personal details and unrelated education/work experience visit my <a href="https://www.linkedin.com/in/danielmateoslab/" target="_blank">LinkedIn</a>.
-
-</article>
-
-<article>
 <a name="introduction"></a>
 
 ## A Brief Introduction
