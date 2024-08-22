@@ -44,16 +44,16 @@
 
 ### Frameworks & Libraries
 
+![Next](https://img.shields.io/badge/-Next-333333?style=flat-square&logo=Next.js "Next")
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat-square&logo=TailwindCSS "TailwindCSS")
+![RadixUI](https://img.shields.io/badge/-Radix-333333?style=flat-square&logo=Radix-ui "Radix-ui")
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=React "React")
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat-square&logo=Express "Express")
-![Next](https://img.shields.io/badge/-Next-333333?style=flat-square&logo=Next.js "Next")
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=Flask "Flask")
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat-square "SQLAlchemy")
 ![Apollo](https://img.shields.io/badge/-Apollo-333333?style=flat-square&logo=Apollographql "Apollo")
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat-square&logo=Jest&logoColor=C21325 "Jest")
 ![Pytest](https://img.shields.io/badge/-Pytest-333333?style=flat-square&logo=Pytest "Pytest")
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=Bootstrap "Bootstrap")
-![Material UI](https://img.shields.io/badge/-Material_UI-333333?style=flat-square&logo=MUI&logoColor=007FFF "Material UI")
 ![Emotion CSS](https://img.shields.io/badge/-Emotion_CSS-333333?style=flat-square&logo=Emotion.css "Emotion CSS")
 
 ### Databases
