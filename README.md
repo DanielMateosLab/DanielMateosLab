@@ -30,11 +30,12 @@
 
 ### Languages
 
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat-square&logo=Typescript "Typescript")
+![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=C "C")
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python "Python")
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5 "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=CSS3&logoColor=1572B6 "CSS3")
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat-square&logo=Typescript "Typescript")
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat-square&logo=Javascript "Javascript")
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python "Python")
 
 ### API "Patterns"
 
