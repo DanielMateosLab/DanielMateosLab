@@ -79,10 +79,6 @@
   <a href="https://github.com/danielmateoslab/movy" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
   <a href="https://movy.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
 
-- Danielmatlab: it's my web-version resume.
-  <a href="https://github.com/danielmateoslab/danielmatlab" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
-  <a href="https://danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
-
 - Documentos-Los-Guindales: an app used by one association during the COVID pandemic to generate PDF safe-conducts, allowing activity participants to bypass certain restrictions. The demo live version has mock association data.
   <a href="https://github.com/danielmateoslab/documentos-los-guindales" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
   <a href="https://documentos-los-guindales.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
