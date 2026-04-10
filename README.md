@@ -16,10 +16,8 @@
 
 ## A Brief Introduction
 
-- Learning web development since 2017.
+- Web developer since 2017.
 - Mostly self-taught and self-sufficient.
-- Finished a <a href="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" target="_blank">Full Stack Web Developer Bootcamp</a> in May 2022.
-- Working as Frontend Developer since June 2022.
 
 </article>
 
@@ -76,22 +74,6 @@
 ## <a name="Portfolio"></a> Portfolio
 
 - Blue Oak Immigration: a landing page for a real immigration law firm. [Live Version](https://blueoakimmigration.com)
-
-- Movy: An app to get details of your favourite TV shows.
-  <a href="https://github.com/danielmateoslab/movy" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
-  <a href="https://movy.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
-
-- Documentos-Los-Guindales: an app used by one association during the COVID pandemic to generate PDF safe-conducts, allowing activity participants to bypass certain restrictions. The demo live version has mock association data.
-  <a href="https://github.com/danielmateoslab/documentos-los-guindales" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
-  <a href="https://documentos-los-guindales.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
-
-- Guindales-Emails: an email list app with passwordless and social-github authentication.
-  <a href="https://github.com/danielmateoslab/guindales-emails" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
-  <a href="https://email-list.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
-
-- Simplisio: an app that implements a traditional email-password authentication with db-stored sessions. You can edit your details or delete your account.
-  <a href="https://github.com/danielmateoslab/simplisio" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)</a>
-  <a href="https://simplisio.danielmatlab.com/" target="_blank">![Live Version](https://img.shields.io/badge/-Live_Version-333333?style=flat-square&logo=google-chrome)</a>
 
 </article>
 
